@@ -1,13 +1,12 @@
 {
-  "name": "theme-starter",
-  "title": "Starer Theme",
-  "displayName": "Starer Theme",
+  "name": "debian-theme",
+  "title": "Debian Theme",
+  "displayName": "Debian Theme",
   "theme": "ui",
   "version": "0.1.0",
-  "description": "A great dark theme to start your own themes.",
+  "description": "A great dark theme for debian.",
   "license": "GPL-3.0",
   "engines": {
     "mailspring": "*"
   }
 }
-
